@@ -22,28 +22,13 @@ To run these notebooks, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/shamsbasir/Fine-Tuning-LLMs.git
     ```
 
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Open the desired notebook using Jupyter Notebook or Jupyter Lab.
+2. Open the desired notebook using Jupyter Notebook or Jupyter Lab.
 
 ## Dependencies
 
 - Python 3.x
 - [Hugging Face Transformers](https://github.com/huggingface/transformers)
 - Other dependencies mentioned in the notebooks
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Thank you to the [Hugging Face](https://huggingface.co/) community for their amazing NLP resources.
-- Feel free to add any additional acknowledgments or credits.
-
